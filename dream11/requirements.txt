@@ -1,0 +1,19 @@
+blinker=1.9.0
+click==8.1.8
+colorama==0.4.6		"colorama":Unknown word.
+Flask==3.1.0
+itsdangerous==2.2.0		"itsdangerous":Unknown word.
+Jinja2==3.1.6
+joblib=1.4.2	"joblib":Unknown word.
+MarkupSafe==3.0.2
+numpy==2.2.5	"numpy":Unknown word.
+pandas==2.2.3
+python-dateutil==2.9.0.post0	"dateutil":Unknown word.
+pytz==2025.2	"pytz":Unknown word.
+scikit-learn==1.6.1		"scikit-learn":Unknown word.
+scipy==1.15.2	"scipy":Unknown word.
+six==1.17.0
+threadpoolctl==3.6.0	"threadpoolctl":Unknown word.
+tzdata==2025.2  "tzdata":Unknown word.
+Werkzeug==3.1.3		"Werkzeug":Unknown word.
+xgboost==3.0.0		"xgboost":Unknown word.
